@@ -8,9 +8,11 @@ namespace Advent_Of_Code_2024
 {
     class Day3
     {
-        private string pattern = @"mul\(([1-9][0-9]{0,2}),([1-9][0-9]{0,2})\)";
+        private string pattern = @"mul\(([1-9][0-9]{0,2}),([1-9][0-9]{0,2})\)|do\(\)|don't\(\)"
+;
         private string text;
         private int total;
+        private bool instructionTrue = true;
 
         public int RunDayThree()
         {
@@ -30,9 +32,24 @@ namespace Advent_Of_Code_2024
             MatchCollection mulls = Regex.Matches(text, pattern);
             foreach (Match mull in mulls)
             {
-                int firstNumber = Int32.Parse(mull.Groups[1].Value);
-                int secondNumber = Int32.Parse(mull.Groups[2].Value);
-                total += firstNumber * secondNumber;
+                if(mull.Value == "do()")
+                {
+                    instructionTrue = true;
+                }
+                else if(mull.Value == "don't()")
+                {
+                    instructionTrue = false;
+                }
+                else if (instructionTrue)
+                {
+                    int firstNumber = Int32.Parse(mull.Groups[1].Value);
+                    int secondNumber = Int32.Parse(mull.Groups[2].Value);
+                    total += firstNumber * secondNumber;
+                }
+                else
+                {
+                    continue;
+                }
             }
         }
     }
