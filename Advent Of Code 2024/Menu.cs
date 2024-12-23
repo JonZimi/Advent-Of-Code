@@ -19,7 +19,9 @@ internal class Menu
         Console.WriteLine("What day do you want to do?\n");
         Console.WriteLine("""
                         ------Options------
-                        1. Day 1 (First star)
+                        1. Day 1
+                        2. Day2 (Second star)
+                        3. Day3 (First star)
                         -------------------
                        """);
         Console.WriteLine("Press the number to start:");

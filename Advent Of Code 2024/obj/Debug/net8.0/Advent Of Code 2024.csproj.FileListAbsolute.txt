@@ -12,3 +12,18 @@ C:\Users\zimmej39\source\repos\Advent Of Code 2024\Advent Of Code 2024\obj\Debug
 C:\Users\zimmej39\source\repos\Advent Of Code 2024\Advent Of Code 2024\obj\Debug\net8.0\Advent Of Code 2024.pdb
 C:\Users\zimmej39\source\repos\Advent Of Code 2024\Advent Of Code 2024\obj\Debug\net8.0\Advent Of Code 2024.genruntimeconfig.cache
 C:\Users\zimmej39\source\repos\Advent Of Code 2024\Advent Of Code 2024\obj\Debug\net8.0\ref\Advent Of Code 2024.dll
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\bin\Debug\net8.0\Advent Of Code 2024.exe
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\bin\Debug\net8.0\Advent Of Code 2024.deps.json
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\bin\Debug\net8.0\Advent Of Code 2024.runtimeconfig.json
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\bin\Debug\net8.0\Advent Of Code 2024.dll
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\bin\Debug\net8.0\Advent Of Code 2024.pdb
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\obj\Debug\net8.0\Advent Of Code 2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\obj\Debug\net8.0\Advent Of Code 2024.AssemblyInfoInputs.cache
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\obj\Debug\net8.0\Advent Of Code 2024.AssemblyInfo.cs
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\obj\Debug\net8.0\Advent Of Code 2024.csproj.CoreCompileInputs.cache
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\obj\Debug\net8.0\Advent Of Code 2024.sourcelink.json
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\obj\Debug\net8.0\Advent Of Code 2024.dll
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\obj\Debug\net8.0\refint\Advent Of Code 2024.dll
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\obj\Debug\net8.0\Advent Of Code 2024.pdb
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\obj\Debug\net8.0\Advent Of Code 2024.genruntimeconfig.cache
+C:\Users\zimmej39\source\repos\Advent-Of-Code\Advent Of Code 2024\obj\Debug\net8.0\ref\Advent Of Code 2024.dll
